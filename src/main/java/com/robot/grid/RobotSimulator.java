@@ -5,14 +5,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * Standalone console program (Task 1).
- * Reads a starting position and a move-instruction string, then prints the final position.
- * @Author - Deawn Md Alimozzaman
- * Usage:
- *   java RobotSimulator
- *   > 10, 10
- *   > UL2RD
- *   9, 10
+ 
  */
 public class RobotSimulator {
 
